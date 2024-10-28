@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "4acfd61cd3ab21ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73407cdcee73e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb288821d98b2753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State_and_Language_Expressiveness_in_RNNs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State_and_Language_Expressiveness_in_RNNs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69f3896d33d880b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e0282b413bb39f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56190c7fc58076c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6db7f6b536d9d5b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Language",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9606d41989dedac0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f8a79626f266bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "154329ad6e7c6c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc2d80711b341da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "State_and_Language_Expressiveness_in_RNNs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for State_and_Language_Expressiveness_in_RNNs"
+            }
+          },
+          {
+            "id": "5ec7254f245b7a63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "State_and_Language_Expressiveness_in_RNNs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from State_and_Language_Expressiveness_in_RNNs"
+            }
+          },
+          {
+            "id": "4c943d15b83a9b54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0368af5e483d4f57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "State_and_Language_Expressiveness_in_RNNs.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of State_and_Language_Expressiveness_in_RNNs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6db7f6b536d9d5b8",
+  "lastOpenFiles": [
+    "HEAD_NOTE_A Formal Hierarchy of RNN Architectures.md",
+    "The_Role_of_Decoders_in_Language_Recognition_with_RNNs.md",
+    "Understanding_WFAs_and_Their_Relation_to_RNNs.md",
+    "State_and_Language_Expressiveness_in_RNNs.md",
+    "RNN_Expressive_Capacity:_Space_Complexity_and_Rational_Recurrence.md"
+  ]
+}
